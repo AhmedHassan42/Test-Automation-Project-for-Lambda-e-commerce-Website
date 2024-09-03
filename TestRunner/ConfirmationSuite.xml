@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Confirmation Suite">
+    <listeners>
+        <listener class-name="Listeners.IInvokedmethod"/>
+        <listener class-name="Listeners.ITestmethod"/>
+    </listeners>
+    <test name="Confirmation test">
+        <classes>
+            <class name="Tests.TC08ConfirmationPage"/>
+        </classes>
+    </test>
+</suite>

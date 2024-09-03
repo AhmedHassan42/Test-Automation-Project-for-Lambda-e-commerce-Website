@@ -1,0 +1,6 @@
+[INFO] 03-09-2024 23:31:05 [main] [Listeners.ITestmethod.onTestStart(ITestmethod.java:9)] - Test case InValidRegisterTC  started
+[INFO] 03-09-2024 23:31:06 [main] [Pages.P01RegisterPage.emailField(P01RegisterPage.java:34)] - tester1998@gmail.com
+[INFO] 03-09-2024 23:31:08 [main] [Listeners.ITestmethod.onTestSuccess(ITestmethod.java:13)] - InValidRegisterTC  success
+[INFO] 03-09-2024 23:31:13 [main] [Listeners.ITestmethod.onTestStart(ITestmethod.java:9)] - Test case ValidRegisterTC  started
+[INFO] 03-09-2024 23:31:14 [main] [Pages.P01RegisterPage.emailField(P01RegisterPage.java:34)] - tester1998@gmail.com2024-09-03-11-31-14PM
+[INFO] 03-09-2024 23:31:17 [main] [Listeners.ITestmethod.onTestSuccess(ITestmethod.java:13)] - ValidRegisterTC  success

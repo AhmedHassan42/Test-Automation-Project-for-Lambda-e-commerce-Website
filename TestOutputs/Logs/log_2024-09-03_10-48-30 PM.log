@@ -1,0 +1,26 @@
+[INFO] 03-09-2024 22:48:30 [main] [Listeners.ITestmethod.onTestStart(ITestmethod.java:9)] - Test caseValidRegisterTC  started
+[INFO] 03-09-2024 22:48:32 [main] [Listeners.ITestmethod.onTestSuccess(ITestmethod.java:13)] - ValidRegisterTC Test success
+[INFO] 03-09-2024 22:48:38 [main] [Listeners.ITestmethod.onTestStart(ITestmethod.java:9)] - Test caseValidLoginTC  started
+[INFO] 03-09-2024 22:48:40 [main] [Listeners.ITestmethod.onTestSuccess(ITestmethod.java:13)] - ValidLoginTC Test success
+[INFO] 03-09-2024 22:48:45 [main] [Listeners.ITestmethod.onTestStart(ITestmethod.java:9)] - Test caseRedirectedToHome  started
+[INFO] 03-09-2024 22:48:50 [main] [Listeners.ITestmethod.onTestSuccess(ITestmethod.java:13)] - RedirectedToHome Test success
+[INFO] 03-09-2024 22:48:56 [main] [Listeners.ITestmethod.onTestStart(ITestmethod.java:9)] - Test caseRedirectToBrandProducts  started
+[INFO] 03-09-2024 22:49:03 [main] [Listeners.ITestmethod.onTestSuccess(ITestmethod.java:13)] - RedirectToBrandProducts Test success
+[INFO] 03-09-2024 22:49:10 [main] [Listeners.ITestmethod.onTestStart(ITestmethod.java:9)] - Test caseSelectProduct  started
+[INFO] 03-09-2024 22:49:20 [main] [Listeners.ITestmethod.onTestSuccess(ITestmethod.java:13)] - SelectProduct Test success
+[INFO] 03-09-2024 22:49:27 [main] [Listeners.ITestmethod.onTestStart(ITestmethod.java:9)] - Test caseBuyProduct  started
+[INFO] 03-09-2024 22:49:39 [main] [Listeners.ITestmethod.onTestSuccess(ITestmethod.java:13)] - BuyProduct Test success
+[INFO] 03-09-2024 22:49:45 [main] [Listeners.ITestmethod.onTestStart(ITestmethod.java:9)] - Test caseComparingBetweenFlateRatePricesTC  started
+[INFO] 03-09-2024 22:49:57 [main] [Pages.P07CheckOutPage.FlateRateinMethod(P07CheckOutPage.java:44)] - 8.0
+[INFO] 03-09-2024 22:49:57 [main] [Pages.P07CheckOutPage.FlateRateInCard(P07CheckOutPage.java:49)] - 5.0
+[INFO] 03-09-2024 22:49:57 [main] [Listeners.IInvokedmethod.afterInvocation(IInvokedmethod.java:17)] - Test case failed
+[INFO] 03-09-2024 22:50:04 [main] [Listeners.ITestmethod.onTestStart(ITestmethod.java:9)] - Test caseValidCheckoutData  started
+[INFO] 03-09-2024 22:50:25 [main] [Listeners.ITestmethod.onTestSuccess(ITestmethod.java:13)] - ValidCheckoutData Test success
+[INFO] 03-09-2024 22:50:31 [main] [Listeners.ITestmethod.onTestStart(ITestmethod.java:9)] - Test caseValidCheckoutData  started
+[INFO] 03-09-2024 22:50:49 [main] [Listeners.ITestmethod.onTestSuccess(ITestmethod.java:13)] - ValidCheckoutData Test success
+[INFO] 03-09-2024 22:50:54 [main] [Listeners.ITestmethod.onTestStart(ITestmethod.java:9)] - Test caseVerifyProductPrice  started
+[INFO] 03-09-2024 22:51:10 [main] [Pages.P07CheckOutPage.getTotalPrice(P07CheckOutPage.java:39)] - 154.0
+[INFO] 03-09-2024 22:51:14 [main] [Pages.P08ConfirmationPage.GetTotalPrice(P08ConfirmationPage.java:27)] - total Price: 125.0
+[INFO] 03-09-2024 22:51:14 [main] [Listeners.IInvokedmethod.afterInvocation(IInvokedmethod.java:17)] - Test case failed
+[INFO] 03-09-2024 22:51:21 [main] [Listeners.ITestmethod.onTestStart(ITestmethod.java:9)] - Test caseFinishingOrderTC  started
+[INFO] 03-09-2024 22:51:40 [main] [Listeners.ITestmethod.onTestSuccess(ITestmethod.java:13)] - FinishingOrderTC Test success
